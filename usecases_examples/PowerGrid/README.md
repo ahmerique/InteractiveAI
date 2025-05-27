@@ -44,8 +44,7 @@ Follow this section in case you are working on localhost, and without Docker.
 ### Create a virtual environment 
 ```commandline
 cd InteractiveAI/usecases_examples/PowerGrid
-pip3 install -U virtualenv
-python3 -m virtualenv venv_grid2op
+python3 -m venv venv_grid2op
 ```
 
 ### Enter the virtual environment
